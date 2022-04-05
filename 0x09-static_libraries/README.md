@@ -1,1 +1,1 @@
-Static variables
+static
